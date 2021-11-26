@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(name="dsmlbc6_ebruagbay",
-                 version="0.0.1",
+                 version="0.0.2",
                  license="MIT",
                  author="Ebru Topsakal Agbay",
                  author_mail="ebrugeo@gmail.com",
